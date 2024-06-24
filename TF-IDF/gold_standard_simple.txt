@@ -1,0 +1,4 @@
+Alice, 30 year, woman, New York, brown hair, 150 cm, hiking
+Bob, 40 year, man, San Francisco, black hair, 180 cm, coffee
+Charlie, 35 year, man, Boston, red hair, 190 cm, cycling
+David, 45 year, woman, Kansas, blonde hair, 200 cm, sport

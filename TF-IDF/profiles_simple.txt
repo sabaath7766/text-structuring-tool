@@ -1,0 +1,4 @@
+Alice is a 30 year old woman from New York. She’s got brown hair and stands 150 cm tall. Her passion is hiking.
+Bob is a 40 year old man from San Francisco. He’s got black hair and stands 180 cm tall. He likes coffee.
+Charlie is a 35 year old man from Boston. He’s got red hair and is 190 cm tall. He likes cycling.
+David is a 45 year old woman from Kansas. She’s got blonde hair and stands 200 cm tall. Her passion is sport.

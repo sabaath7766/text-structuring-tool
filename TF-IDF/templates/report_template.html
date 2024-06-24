@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feature Extraction Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #333366; }
+        p { margin-bottom: 20px; }
+        b { color: green; }
+        i { color: red; font-style: normal; }
+    </style>
+</head>
+<body>
+    <h1>TF-IDF Top Features</h1>
+
+    {% for res in final_results %}
+        <h2>Results for {{ res['file'] }}</h2>
+        <p><strong>Loss:</strong> {{ res['loss'] }}</p>
+        {% for top_features in res['top_features'] %}
+        <p><strong>Profile {{ loop.index }} Top Features:</strong> {{ top_features | join(', ') | safe }}</p>
+    {% endfor %}
+        <hr/>
+    {% endfor %}
+
+</body>
+</html>

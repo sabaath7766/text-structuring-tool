@@ -1,0 +1,4 @@
+Evelyn, 28 year, woman, Miami, black hair, 165 cm, swimming
+Frank, 42 year, man, Seattle, gray hair, 175 cm, reading
+Grace, 38 year, woman, Chicago, red hair, 160 cm, painting
+Henry, 50 year, man, Denver, brown hair, 185 cm, guitar
